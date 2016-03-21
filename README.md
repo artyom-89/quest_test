@@ -1,6 +1,6 @@
 # quest_test
 
-required PHP 5 >= 5.5
+required PHP 5 >= 5.5, php5-sqlite
 
 Launch:
 <pre>
